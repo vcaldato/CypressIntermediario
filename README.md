@@ -6,7 +6,6 @@
 
 ## O que eu aprendi
 
-Durante o curso de testes automatizados com Cypress (intermediário) você vai aprender:
 
 -Configuração do Ambiente: Configurar o ambiente local de desenvolvimento para testes automatizados com eficiência.
 
